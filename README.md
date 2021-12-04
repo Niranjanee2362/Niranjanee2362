@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niranjanee
-- 👀 I’m interested in Competitive Programming in C and C++ and App development in android framework
+- 👀 I’m interested in Competitive Programming in C and C++ and Web Development
 - 🌱 I’m currently learning JS,Python
-- 💞️ I’m looking to collaborate on C++,C,Java
+- 💞️ I’m looking to collaborate on C++,C
 - 📫 How to reach me IG niranjanee_2362 
 
 <!---
