@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niranjanee
-- 👀 I’m interested in Competitive Programming in C and C++ and Web Development
-- 🌱 I’m currently learning JS,Python
-- 💞️ I’m looking to collaborate on C++,C
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning NextJS
+- 💞️ I’m looking to collaborate on ReactJs, TailwindCSS
 - 📫 How to reach me IG niranjanee_2362 
 
 <!---
